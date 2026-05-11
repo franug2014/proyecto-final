@@ -11,7 +11,7 @@ El principal motor del cambio climático es el efecto invernadero. Algunos gases
 ¿Cómo podemos frenar el cambio climático?
 Las estrategias clave incluyen transicionar a energías renovables, adoptar transporte sostenible, mejorar la eficiencia energética, consumir localmente, aplicar las 3R (reducir, reutilizar, reciclar) y proteger los ecosistemas naturales como los bosques.
 
-Mi proyecto sera una pagina web que va a tener colores que parpaden cada 5 segundos, texto llamativo en negritas y grande, titulo grande, imagenes en movimiento, videos cortos y muchos detalles
+Mi proyecto sera una pagina web que va a tener colores de color fluorecente que parpaden cada 5 segundos, texto llamativo en negritas y grande de colores fuertes ejemplos: verde fuerte o (color pantano), negro, morado, rojo, titulo grande de letra cursiva y de colores brillantes como (azul, naranja, blanco, rosa, amarillo y lila , imagenes en movimiento sobre reciclar, sobre los problemas que causa el cambio climatico, videos cortos sobre chistes acerca del tema y muchos detalles como estrellitas, stikers, emojis, etc.
 
 
 
