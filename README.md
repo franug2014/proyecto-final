@@ -11,7 +11,7 @@ El principal motor del cambio climático es el efecto invernadero. Algunos gases
 ¿Cómo podemos frenar el cambio climático?
 Las estrategias clave incluyen transicionar a energías renovables, adoptar transporte sostenible, mejorar la eficiencia energética, consumir localmente, aplicar las 3R (reducir, reutilizar, reciclar) y proteger los ecosistemas naturales como los bosques.
 
-
+Mi proyecto sera una pagina web que va a tener colores que parpaden cada 5 segundos, texto llamativo en negritas y grande, titulo grande, imagenes en movimiento, videos cortos y muchos detalles
 
 
 
